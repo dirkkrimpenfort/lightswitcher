@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lightswitcher/static/css/main.5b7b3b07.css",
+    "main.js": "/lightswitcher/static/js/main.e2e1471e.js",
+    "index.html": "/lightswitcher/index.html",
+    "main.5b7b3b07.css.map": "/lightswitcher/static/css/main.5b7b3b07.css.map",
+    "main.e2e1471e.js.map": "/lightswitcher/static/js/main.e2e1471e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b7b3b07.css",
+    "static/js/main.e2e1471e.js"
+  ]
+}
